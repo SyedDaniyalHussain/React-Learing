@@ -1,0 +1,21 @@
+.CardFirstdiv {
+    background-color: antiquewhite;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    padding: 50px 50px;
+}
+
+.cardFirstPara {
+    color: red;
+}
+
+.cardSecondPara {
+    color: black;
+
+}
+
+.cardFirstSpan {
+    font-weight: bolder;
+    color: black;
+}
