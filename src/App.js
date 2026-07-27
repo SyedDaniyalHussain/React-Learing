@@ -4,7 +4,6 @@ import Header from './Components/myHeader/Header';
 // import DaniyalCoverPhoto from "./Assets/Whisk_57428692ee41e1c83374e51f034ceae9dr.png"
 import DaniyalMainPhoto from "./Assets/Gemini_Generated_Image_5rhqp85rhqp85rhq.png";
 import Button from './Components/myButton/Button';
-import { campus, instituteName } from './additional';
 import Card from './Components/myCards/Card';
 import AboutMe from './Components/About Me/AboutMe';
 import GetInTouch from "./Components/Get in Touch/GetInTouch";
