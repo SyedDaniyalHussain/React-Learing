@@ -1,0 +1,15 @@
+.main-Skills{
+   background-color: #4a6bff;
+   padding: 100px;
+}
+
+.Skills{
+    color: white;
+  font-size: 50px;
+  text-decoration: underline;
+}
+.skills-points{
+    color: white;
+   font-size: 20px;
+   font-weight: bolder;
+}

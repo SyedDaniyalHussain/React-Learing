@@ -1,11 +1,33 @@
-.navBar {
-  display: flex;
-  justify-content:flex-end;
-  gap: 50px;  
-  background-color: black;
-  border-radius: 10px;
-  color: white;
-  padding: 20px;
-  margin-top: 5px;
-  padding-right: 80px;
-}
+ .container-header {
+   display: flex;
+   justify-content: space-around;
+ }
+
+ .header-heading {
+   padding-right: 470px;
+ }
+
+ .navBar {
+   display: flex;
+   justify-content: flex-end;
+   gap: 50px;
+   background-color: black;
+   border-radius: 10px;
+   color: white;
+   padding: 20px;
+   margin-top: 5px;
+   padding-right: 80px;
+ }
+
+ .header-points {
+   color: white;
+   text-decoration: none;
+ }
+
+ .heading-syed {
+   color: #4a6bff;
+ }
+
+ .daniyal {
+   color: #ff6b6b;
+ }

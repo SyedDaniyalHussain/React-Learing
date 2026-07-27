@@ -1,0 +1,15 @@
+.Get-in-touch-main-btn{
+    padding: 15px 30px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.button-ancorTag{
+   text-decoration: none;
+
+}
+.Get-in-touch-main-btn:hover{
+    background-color:  #4a6bff;
+    transition: 1s;
+}

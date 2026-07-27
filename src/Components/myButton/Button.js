@@ -1,7 +1,9 @@
+import "./Button.css"
+
 function Button() {
     return(
         <div>
-            <button>Get in Touch</button>
+            <a href="#GetInTouch" className="button-ancorTag"><button className="Get-in-touch-main-btn" >Let's Connect</button></a>
         </div>
     )
 }
